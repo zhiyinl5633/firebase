@@ -6,7 +6,7 @@ As someone who has a difficulty of making decisions, choosing a topic was harder
 ### What is Firebase?
 Firebase is a mobile and web application development platform that provides users with tools to develop high quality apps. Also, Firebase has functionalities such as analytics, databases, messaging and crash reporting. From my research and googling, I discovered that Firebase consists of multiple features, such as a chat feature that allows users to chat with each other while they are on the app. My understanding of Firebase so far is that Firebase is the back end and similar to the **Model**(or brain) of the app, which takes in the user's data and add its features to it, such as storing the data in a database.
 
-<img src="../images/firebase_features.png" style="width: 300px;" />
+![Firebase](../images/features.PNG)
 
 ### Next Steps
 * Tinker and explore Firebase features
