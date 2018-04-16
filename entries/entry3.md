@@ -53,9 +53,9 @@ First of all, *What is CLI?* Well, CLI allows you to locally store your web app 
 ![Messages](../images/messages.PNG)
 
 [Click here to test out the web chat that I built ](http://firebase-zhiyinl5633.c9users.io:8080/)
-Note: Currenly, the app only works when I run it on the command line
+Note: Currently, the app only works when I run it on the command line
 
-Here's how the webchat looks:
+Here's how the web chat looks:
 ![Webchat](../images/webchat.PNG)
 ---
 ## Takeaways
