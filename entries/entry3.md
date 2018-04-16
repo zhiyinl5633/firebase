@@ -44,6 +44,7 @@ First of all, *What is CLI?* Well, CLI allows you to locally store your web app 
 
 ### Next Steps
 * Figure out how to show notifications on the web chat
+* Deploy the web chat app
 ---
 
 ### Firebase Database feature
@@ -52,6 +53,10 @@ First of all, *What is CLI?* Well, CLI allows you to locally store your web app 
 ![Messages](../images/messages.PNG)
 
 [Click here to test out the web chat that I built ](http://firebase-zhiyinl5633.c9users.io:8080/)
+Note: Currenly, the app only works when I run it on the command line
+
+Here's how the webchat looks:
+![Webchat](../images/webchat.PNG)
 ---
 ## Takeaways
 * **Work together.** Exploring a new topic on our own can be extremely difficult. So, gather with people who are studying the same topic as you and help each other out because they may be struggling with the same challenges that you have encountered. 
