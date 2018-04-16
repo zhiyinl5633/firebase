@@ -45,6 +45,12 @@ First of all, *What is CLI?* Well, CLI allows you to locally store your web app 
 ### Next Steps
 * Figure out how to show notifications on the web chat
 ---
+
+### Firebase Database feature
+*Want to see something very cool?* All the messages are stored in the Firebase Database.
+
+![Messages](../images/messages.PNG)
+
 [Click here to test out the web chat that I built ](http://firebase-zhiyinl5633.c9users.io:8080/)
 ---
 ## Takeaways
