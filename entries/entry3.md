@@ -14,13 +14,13 @@ Wow, we are already 1/3 way to the 9 weeks of our independent study, choosing a 
 
 ### Installing the Firebase **Command Line Interface(CLI)** 
 First of all, *What is CLI?* Well, CLI allows you to locally store your web app and deploy your web app to Firebase hosting.
-1. To install CLI, run the following npm command
+1. To install CLI, run the following npm command.
 ```npm -g install firebase-tools```
 2. To verify CLI installation, run the following command in the command line:
 ```firebase --version //should be 3.18.2 or above```
-3. To authorize the Firebase CLI, run the following command in the command line
+3. To authorize the Firebase CLI, run the following command in the command line.
 ```firebase login```
-4. Make sure that you are in the web-start directory and run the following command to setup the Firebase CLI
+4. Make sure that you are in the web-start directory and run the following command to setup the Firebase CLI.
 ```firebase use --add```
 * **Challenges:** 
 
@@ -34,16 +34,16 @@ First of all, *What is CLI?* Well, CLI allows you to locally store your web app 
     * *Right after I killed a bug, another one came. Sigh...* Now this time, the ```firebase serve``` command (runs the app) is not working. With the help of my classmates, I learned that I have to authenticate c9 on the [Firebase console](https://console.firebase.google.com/u/0/).
 
 ### Authenticate C9 on Firebase Console
-1. In C9, click on the main.js file, press run(green button) at the top, and copy the URL that your code is running at
-2. Go to the [Firebase console](https://console.firebase.google.com/u/0/) and click on **Authentication** on the left and click on the **SIGN-IN METHOD** tab
+1. In C9, click on the main.js file, press run(green button) at the top, and copy the URL that your code is running at.
+2. Go to the [Firebase console](https://console.firebase.google.com/u/0/) and click on **Authentication** on the left and click on the **SIGN-IN METHOD** tab.
 
 ![Athenticate C9](../images/auth-c9-1.PNG)
 
-2. Scroll down, click on **ADD DOMAIN**, and paste the URL that you previously copied as the domain
-4. Go back to C9, and run the command ```firebase serve -p $PORT -o $IP``` (*Hmmm... don't this look familiar*) in the command line 
+2. Scroll down, click on **ADD DOMAIN**, and paste the URL that you previously copied as the domain.
+4. Go back to C9, and run the command ```firebase serve -p $PORT -o $IP``` (*Hmmm... don't this look familiar*) in the command line. 
 
 ### Next Steps
-* Figure out how to show notifications on the web chat
+* Figure out how to show notifications on the web chat.
 * Deploy the web chat app
 ---
 
@@ -66,6 +66,8 @@ Here's how the web chat looks:
 * https://codelabs.developers.google.com/codelabs/firebase-web/#0
 
 [Next](entry4.md)
+
+[Previous](entry2.md)
 
 [Table of Contents](../README.md)
 

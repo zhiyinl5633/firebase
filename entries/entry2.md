@@ -11,7 +11,7 @@ Ok, the topic of my independent study is Firebase, but now what? First, I start 
     ``` <script src="https://www.gstatic.com/firebasejs/4.12.1/firebase.js"></script> ```
 5. Copy and paste the following code snippet inside of the ``` function setup(){ } ```
 
-```  
+``` javascript 
   // Initialize Firebase
   // TODO: Replace with your project's customized code snippet
   var config = {
@@ -39,7 +39,7 @@ To practice installing Firebase, I opened up my Pong remix project from 2 years 
     
 * To take in the name and score from the user, I created an input box and a submit button.
     * This was where I was stuck because I didn't link **p5.dom library**.
-    ```
+    ```javascript
             username = createInput();
             submit = createButton("Submit");
             submit.mousePressed(submitScore); //when clicked, score + name is pushed to database
@@ -47,7 +47,7 @@ To practice installing Firebase, I opened up my Pong remix project from 2 years 
 * To collect data from the user, I created an object that saves the user's name and score inside my ```submitScore()``` function.
 
     * To add data to the Firebase database, I looked back at my previous notes and used the ```push()``` function.
-``` 
+```javascript 
 function submitScore() {
             var data = {
                 name: username.value(),
@@ -88,7 +88,7 @@ function submitScore() {
             }
     ```
     * The ```errorData``` simply alerts you in the console when there's an error in the data
-    ```
+    ``` javascript
     function errorData(error){
                 console.log("Error!");
                 console.log(error);
@@ -112,4 +112,5 @@ function submitScore() {
 
 [Next](entry3.md)
 
+[Previous](entry1.md)
 [Table of Contents](../README.md)
