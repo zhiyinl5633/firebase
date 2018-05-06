@@ -1,4 +1,4 @@
-# Entry 5: MVP
+# Entry 6: MVP
 Drrrrrrrrrrrrrrrrrum-roll, please.... This week, my classmates and I decided to work together for our final project and we are planning on our MVP. *Wait a minute... doesn't MVP stand for Most Valuable Player??* Well, according to Mr.Mueller's definition, MVP stands for**Minimum Viable Product.**So, let's see what we have planned so far. First of all, since the last thing we learned from the Ruby/Sinatra unit was working with APIs, we decided to find an easier way of working with APIs, which is through Javascript. Through [Daniel Shiffman's Youtube tuorial](https://www.youtube.com/watch?v=ecT42O6I_WI), we have a brief idea of how working with APIs in Javascript is like and we tried it out ourselves by using the previous API that we used for our Sinatra project (as for practice, we used the [**Tvmaze API**](http://www.tvmaze.com/api)). However, the process was not as smooth as we expected. 
 
 ### Challenges Encountered
