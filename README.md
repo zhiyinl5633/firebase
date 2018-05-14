@@ -8,6 +8,6 @@
 * [Entry 4: Friendly Web Chat (Cont.)](entries/entry4.md)
 * [Entry 5: Friendly Eats](entries/entry5.md)
 * [Entry 6: MVP](entries/entry6.md)
-* [Entry 7: ](entries/entry7.md)
+* [Entry 7: MVP 2.0](entries/entry7.md)
 * [Entry 8: ](entries/entry8.md)
 * [Entry 9: ](entries/entry9.md)

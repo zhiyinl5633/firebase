@@ -29,7 +29,7 @@ Snippets of loading a new page:
 Snippets of getting the image to show on result page:
 
 **HTML(result.html)**
-```
+```javascript
 <script>
         window.onload = function() {
             document.getElementById("secImage").src = localStorage.getItem("globalImage");
