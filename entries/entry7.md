@@ -45,6 +45,9 @@ localStorage.setItem("bookImages", JSONreadyImages);
 
 **Note**: ```bookTitles``` and ```bookImages``` are names of the arrays that store the results. 
 
+**Reference**
+* 
+
 ---
 
 **Project in Progress** 
