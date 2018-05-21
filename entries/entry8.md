@@ -148,7 +148,7 @@ Look forward to our project next week during the presentations
 ---
 ## Takeaways
 * **Not everything has to be planned, just go with the flow and ideas will start popping up.** For me, sometimes I like planning things out, but when I don't, I would just plan along the way and just go with whatever comes to my mind at that moment.
-* **Old but Gold.** Looking back to codes from years ago can be a great help to remind you of concepts that you may have forgotten and i gives you ideas of what you might want to do.
+* **Old but Gold.** Looking back to codes from years ago can be a great help to remind you of concepts that you may have forgotten and it gives you ideas of what you might want to do.
 
 [Next](entry9.md)
 
